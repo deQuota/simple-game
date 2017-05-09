@@ -1,2 +1,1 @@
-# simple-game
-This is the simple game 'Tik Tac Toe', we all have played. It has single player and multiplayer modes
+This is the simple game 'Tik Tac Toe', we all have played. It has single player and multiplayer modes. This will encourage you to define some algorithms to the single player mode and it is good to even try that single player mode by machine learning approach.
